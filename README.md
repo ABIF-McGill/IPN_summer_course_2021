@@ -4,14 +4,17 @@
 
 Welcome! In this repository you will find the images needed for today's interactive activity on image analysis.
 
+<br />
 
+## Download image data and Fiji
 
-**To download the images** click on the green Code button, and then "Download ZIP"
+**To download the images** click on the green Code button, and then "Download ZIP". Then, you can extract images (ending in .tif) in Windows / OS X.
 
 To download Fiji/ImageJ [click here](fiji.sc)
 
 
 
+<br />
 
 
 ## Objective: Learn basics of opening images in Fiji, processing and object segmentation
