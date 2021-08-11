@@ -14,8 +14,12 @@ Also, you will need to download [Fiji/ImageJ here](fiji.sc)
 
 The following is meant as a general guideline. We will discuss how to do this and why in class.
 
-### Part 1) Segment nuclei from an image of Hoechst stained nuclei, and measure intensity
-information of a nuclear protein fused with EGFP in a different channel
+### Part 1) Loading an image in Fiji
+
+In this section, we'll load an image in Fiji, and get familiarized with Fiji. We'll look at pixel intensity values and coordinates, adjust display contrast and LUTs.
+
+
+### Part 2) Segment nuclei from an image of Hoechst stained nuclei and measure intensity
 
 1) Open Fiji, then open the Hoechst image (“ESCs_WT_020_Ch2_Hoechst.tif") in Fiji by
 dragging the file into the main window.
