@@ -2,7 +2,9 @@
 
 ## Lesson 6 Quantitative Image Analysis 
 
-Welcome! In this repository you will find the images needed for today's interactive activity on image analysis.
+This lesson was given over Zoom on August 11th 2021 - no recording is publically available. This lesson is based on our workshop on the basics on image processing and analysis in Fiji, given in May 2020. 
+
+In this repository you will find the images needed for today's interactive activity on image analysis.
 
 <br />
 
@@ -59,42 +61,3 @@ Hoechst image to Measure U1-GFP intensity inside each nuclei.
 
 
 <br />
-
-## Some notes
-
-What seemed to work ok, and where were there problems with regards to segmenting
-nuclei? Alternatively, how could the images be improved by adjusting the microscope image
-acquisition parameters to make segmentation of nuclei easier?
-
-<br />
-
-Now you have the GFP intensities from some cells, which is great! What do these values mean?
-How could they be compared? Is there a way to process many images, in cells from different
-conditions, how could this be done to measure the intensity information and make a meaningful
-plot?
-
-<br />
-
-Stuck? Don’t worry! If you are a bit lost, or searching desperately for a command, you’re
-definitely not alone, and you have a few options!
-
-<br />
-
-First, on the main Fiji window, there is a little search field - here you can search for functions
-that you think exist in Fiji, but that you can’t quite find in the menus. This search field is your
-friend.
-
-Then, if you are looking for something, but can’t quite distill it to a few keywords, go ahead and
-google it. Chances are high someone else had your exact problem, and a community of Fiji
-folks responded with helpful discussion and suggestions. For any analysis task, either in Fiji or
-how to analyze the data, Google is your friend!
-
-
-And of course, if you are doing this during an online webinar or tutorial, go ahead and ask a
-question or put up your hand.
-
-You’ll notice Fiji has a few idiosyncrasies with which one must get familiar. For example, we
-duplicate our images regularly (when they aren’t too big), because Undo doesn’t work with
-many functions, and often you need to try different settings to find what works for your images.
-There are lots of odd little things like this in Fiji, don’t despair, you’ll get used to them pretty
-quickly.
