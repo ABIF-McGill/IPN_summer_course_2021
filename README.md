@@ -1,8 +1,8 @@
 # IPN_summer_course_2021
 
-## Lesson 6 Quantitative Image Analysis 
+## Lesson 6 - Quantitative Image Analysis 
 
-This lesson was given over Zoom on August 11th 2021 - no recording is publically available. This lesson is based on our workshop on the basics on image processing and analysis in Fiji, given in May 2020. 
+This lesson was given over Zoom on August 11th 2021 - no recording is publically available. This lesson is based on our workshop on the basics on image processing and analysis in Fiji, given in May 2020. More information is available on the [Intro_to_Fiji_Basics repository](https://github.com/ABIF-McGill/Intro_to_Fiji_Basics)
 
 In this repository you will find the images needed for today's interactive activity on image analysis.
 
